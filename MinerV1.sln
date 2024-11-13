@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinerV1", "MinerV1\MinerV1.csproj", "{2C04E892-9F20-448F-A61D-B7A1AB70BEF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BA_MINER", "BA_MINER\BA_MINER.csproj", "{F35EE5BF-5C34-440C-923C-EF26833B7320}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{40AD182F-B86F-4249-A080-19435E18108F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Pictures\Saved Pictures\imagen de fondo.jpg = ..\..\..\Pictures\Saved Pictures\imagen de fondo.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C04E892-9F20-448F-A61D-B7A1AB70BEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C04E892-9F20-448F-A61D-B7A1AB70BEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C04E892-9F20-448F-A61D-B7A1AB70BEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C04E892-9F20-448F-A61D-B7A1AB70BEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35EE5BF-5C34-440C-923C-EF26833B7320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35EE5BF-5C34-440C-923C-EF26833B7320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35EE5BF-5C34-440C-923C-EF26833B7320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35EE5BF-5C34-440C-923C-EF26833B7320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B49A947-651D-468F-A109-7605A3F54FF3}
+	EndGlobalSection
+EndGlobal
